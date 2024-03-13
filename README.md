@@ -1,6 +1,6 @@
 ## Hola 👋
 Soy Ricardo Cancino y tengo 22 años
-Estudio Ingeniería iomédica en la Universidad Católica y voy en 5to año
+Estudio Ingeniería biomédica en la Universidad Católica y voy en 5to año
 #### Algunas cosas que me gustan:
 1. Me gusta el deporte en general
    
